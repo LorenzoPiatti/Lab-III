@@ -1,0 +1,1 @@
+En esta carpeta se ubicaran las practicas obligatorias de Laboratorio de Computacion 3
